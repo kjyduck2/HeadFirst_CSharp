@@ -1,0 +1,8 @@
+
+*.sln
+*.vs
+bin/
+obj/
+Properties/
+*.appxmanifest
+*.csproj
